@@ -18,7 +18,7 @@ It's 2015, so you can retire in 2055.
 
 ### constraints
 
-• Again, be sure to convert the input to numerical data
-before doing any math.
-• Don’t hard-code the current year into your program.
-Get it from the system time via your programming language.
+- Again, be sure to convert the input to numerical data
+  before doing any math.
+- Don’t hard-code the current year into your program.
+  Get it from the system time via your programming language.

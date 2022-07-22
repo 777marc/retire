@@ -22,3 +22,9 @@ It's 2015, so you can retire in 2055.
   before doing any math.
 - Don’t hard-code the current year into your program.
   Get it from the system time via your programming language.
+
+# getting started
+
+- download repo
+- in root directory, run npm install
+- run npm run start to execute the program

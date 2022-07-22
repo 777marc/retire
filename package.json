@@ -1,0 +1,16 @@
+{
+  "name": "retire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "marc mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
